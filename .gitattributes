@@ -1,0 +1,4 @@
+*   text=auto
+*.ps1   text encoding=utf-8-with-signature-dos
+*.psm1  text encoding=utf-8-with-signature-dos
+*.md    text encoding=UTF-8
